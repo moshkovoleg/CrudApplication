@@ -1,0 +1,9 @@
+<archetype>
+  <id>CrudApplication</id>
+  <sources>
+    <source>src/main/java/com/moshkovoleg/CrudApplication.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/com/moshkovoleg/CrudApplicationTests.java</source>
+  </testSources>
+</archetype>
